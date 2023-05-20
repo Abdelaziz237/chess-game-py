@@ -1,4 +1,4 @@
-
+# chess-game-py
 # Purpose
 This program is a Chess Engine with a pygame-based GUI.
 It contains several pre-made player types such as
@@ -26,4 +26,3 @@ Available spots for each piece will be highlighted when clicked.
 Player types can be changed in main.py.
 
 New player types can be added to Player.py.
-# chess-game-py
